@@ -14,7 +14,6 @@ body {
     overflow-x: hidden;
     padding-top: 4vh;
     padding-bottom: 4vh;
-    /* cuzinho doce */
     background-image: url(../assets/boteco\ veia.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -41,7 +40,6 @@ h2 {
 }
 
 h1 {
-    /* aqui tbm */
     text-transform: uppercase;
     background-color: #1b962b;
     border-radius: 20px;
